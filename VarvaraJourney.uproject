@@ -1,15 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "RemoteSession",
-			"Enabled": true
-		},
-		{
-			"Name": "SlateRemote",
 			"Enabled": true
 		},
 		{
@@ -141,6 +137,10 @@
 		{
 			"Name": "AndroidDeviceProfileSelector",
 			"Enabled": false
+		},
+		{
+			"Name": "TDxUnrealEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
